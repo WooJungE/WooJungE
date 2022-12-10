@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Tstory-#000000?style=flat&logo=Tstory&logoColor=white"/>
+<imgsrc="https://img.shields.io/badge/GitHub-#181717?style=flat&logo=&logoColor=white"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooJungE&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=WooJungE&show_icons=true">
