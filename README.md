@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi👋 Welcome to WooJungE's GitHub
+</br></br>
 
 :books: <a> studying </a> :books:
+</br>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
-
+</br></br>
 :computer: <a> SNS </a> :computer:
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/>
 
