@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Tstory-#000000?style=flat&logo=Tstory&logoColor=white"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooJungE&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=WooJungE&show_icons=true">
+
 <!--
 **WooJungE/WooJungE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
