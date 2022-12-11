@@ -17,7 +17,8 @@
 </br></br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/>
 </br></br></br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooJungE&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooJungE&layout=compact">
+<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=WooJungE&show_icons=true">
 
 <!--
