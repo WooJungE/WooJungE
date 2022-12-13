@@ -12,7 +12,7 @@
 </br></br></br>
 :books: <a> now studying </a> :books:
 </br></br>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+
 </br></br></br>
 :computer: <a> Tools </a> :computer:
 </br></br>
