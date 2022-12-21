@@ -9,18 +9,17 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
-</br></br>
+</br>
 
 </br>
 :books: <a> now studying </a> :books:
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-</br></br>
 
-</br></br></br>
+</br>
 :computer: <a> Tools </a> :computer:
-
-</br></br>
+</br>
 <a href="https://github.com/WooJungE/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/>
+
 
 </br></br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooJungE&layout=compact&theme=radical)
