@@ -16,7 +16,7 @@
 </br></br></br>
 :computer: <a> Tools </a> :computer:
 </br></br>
-<a href="https://github.com/WooJungE/WooJungE"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/>
+<a href="https://github.com/WooJungE/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/>
 </br></br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooJungE&layout=compact&theme=radical)
 <br><br>
