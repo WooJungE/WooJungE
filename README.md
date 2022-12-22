@@ -1,5 +1,5 @@
 ### Hi👋 Welcome to WooJungE's GitHub
-</br></br>
+</br></br></br>
 ✨: <a> Languages </a> ✨:
 </br></br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -21,7 +21,7 @@
 <a href="https://github.com/WooJungE/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/>
 
 
-</br></br></br>
+</br></br></br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooJungE&layout=compact&theme=radical)
 
 <br><br>
