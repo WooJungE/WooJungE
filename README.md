@@ -13,11 +13,12 @@
 
 </br>
 :books: <a> now studying </a> :books:
+</br></br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 </br>
 :computer: <a> Tools </a> :computer:
-</br>
+</br></br>
 <a href="https://github.com/WooJungE/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/>
 
 
