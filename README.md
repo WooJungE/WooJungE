@@ -1,7 +1,7 @@
 ### Hi👋 
 ### Welcome to
 ### WooJungE's GitHub
-</br></br></br>
+</br></br>
 ✨: <a> Languages </a> ✨:
 </br></br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
