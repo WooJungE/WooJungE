@@ -1,6 +1,12 @@
 ### Hi👋 
 ### Welcome to
 ### WooJungE's GitHub
+
+
+<a> blog: </a>
+<a> https://dreamwalk.tistory.com </a>
+
+
 </br></br>
 ✨: <a> Languages </a> ✨:
 </br></br>
