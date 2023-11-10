@@ -8,7 +8,7 @@
 
 
 </br></br>
-✨: <a> Languages </a> ✨:
+✨ <a> Languages </a> ✨
 </br></br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
@@ -18,22 +18,23 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
 </br>
 
 </br>
 :books: <a> now studying </a> :books:
 </br></br>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/> 
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
-
+</br>
 
 
 </br>
 :computer: <a> Tools </a> :computer:
 </br></br>
 <a href="https://github.com/WooJungE/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/>
-
+<a href="https://dreamwalk.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
 
 </br></br></br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooJungE&layout=compact&theme=radical)
