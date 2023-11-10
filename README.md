@@ -33,8 +33,8 @@
 </br>
 :computer: <a> Tools </a> :computer:
 </br></br>
-<a href="https://github.com/WooJungE/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/>
-<a href="https://dreamwalk.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
+<a href="https://github.com/WooJungE/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/></a>
+<a href="https://dreamwalk.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 
 </br></br></br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooJungE&layout=compact&theme=radical)
