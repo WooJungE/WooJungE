@@ -23,6 +23,10 @@
 </br>
 :books: <a> now studying </a> :books:
 </br></br>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
+
 
 
 </br>
