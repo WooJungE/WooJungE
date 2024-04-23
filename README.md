@@ -6,6 +6,11 @@ WooJungE's GitHub </h2>
 <a> https://dreamwalk.tistory.com </a>
 
 
+<a> notion: </a>
+<a> https://narrow-robe-14b.notion.site/JungEun-Woo-7da01735bbc44595b7962bec6cafe031?pvs=4 </a> (Eng)
+<a> https://narrow-robe-14b.notion.site/0527abaf8fd34126ae44ff311f703a85?pvs=4 </a> (Kor)
+
+
 </br></br>
 ✨ <a> Used languages & framework </a> ✨
 </br></br>
