@@ -7,8 +7,13 @@ WooJungE's GitHub </h2>
 
 
 <a> notion: </a>
-<a> https://narrow-robe-14b.notion.site/JungEun-Woo-7da01735bbc44595b7962bec6cafe031?pvs=4 </a> (Eng)
-<a> https://narrow-robe-14b.notion.site/0527abaf8fd34126ae44ff311f703a85?pvs=4 </a> (Kor)
+(Eng)
+</br>
+<a> https://narrow-robe-14b.notion.site/JungEun-Woo-7da01735bbc44595b7962bec6cafe031?pvs=4 </a>
+</br>
+(Kor)
+</br>
+<a> https://narrow-robe-14b.notion.site/0527abaf8fd34126ae44ff311f703a85?pvs=4 </a>
 
 
 </br></br>
