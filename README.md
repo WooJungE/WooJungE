@@ -2,11 +2,6 @@
 <h2> Welcome to
 WooJungE's GitHub </h2>
 
-<a> blog: </a>
-<a> https://dreamwalk.tistory.com </a>
-
-
-
 <a> notion: </a>
 </br>
 (Eng)
@@ -17,6 +12,10 @@ WooJungE's GitHub </h2>
 (Kor)
 </br>
 <a> https://narrow-robe-14b.notion.site/0527abaf8fd34126ae44ff311f703a85?pvs=4 </a>
+</br></br>
+
+<a> blog: </a>
+<a> https://dreamwalk.tistory.com </a>
 
 
 </br></br>
