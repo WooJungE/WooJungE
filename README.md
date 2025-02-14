@@ -67,7 +67,18 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooJungE&layout=compact&theme=radical&hide=Jupyter%20Notebook&card_width=450">
 </p>
+</br>
 
+---
+
+</br>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=WooJungE&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/WooJungE"
+  width="600"
+  height="300"
+/>
+</a>
 
 
 <!--
